@@ -44,5 +44,9 @@ Action:
 - `model_columns.pkl` → Feature columns
 - `requirements.txt` → Dependencies
 
+## ⚙️ Model Training
+The model was trained using a telecom customer dataset with preprocessing, encoding, and feature selection techniques.  
+It uses a Random Forest algorithm to predict customer churn probability and classify customers into risk levels.
+
 ## 👩‍💻 Author
 Nandhitha
