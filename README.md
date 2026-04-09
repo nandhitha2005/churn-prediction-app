@@ -38,11 +38,11 @@ Action:
 ## 🌐 Live Demo
 👉 https://nandy2005-churn-prediction-app.hf.space
 
-## 📁 Files
-- app.py → Main application
-- churn_model.pkl → Trained model
-- model_columns.pkl → Feature columns
-- requirements.txt → Dependencies
+## 📂 Project Structure
+- `app.py` → Main application
+- `churn_model.pkl` → Trained ML model
+- `model_columns.pkl` → Feature columns
+- `requirements.txt` → Dependencies
 
 ## 👩‍💻 Author
 Nandhitha
