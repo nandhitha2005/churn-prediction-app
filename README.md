@@ -8,6 +8,16 @@ The model is built using a Random Forest algorithm and deployed using Gradio on 
 
 This project predicts whether a telecom customer is likely to churn using a Machine Learning model.
 
+## 📸 Output Screenshot
+Here’s a sample app prediction:
+
+✅ Low Risk (78.00%)
+
+Action:
+- Customer likely satisfied
+
+![App Screenshot](output.png)
+
 ## 🔍 Features
 - Predicts churn risk (High / Moderate / Low)
 - Provides business-level recommendations
